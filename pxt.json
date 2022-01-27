@@ -1,0 +1,30 @@
+{
+    "name": "LED kruh sa toci pomocou kruhoveho ovladaca",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.10",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.60",
+        "tag": "v3.0.60",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/07e6457bfa581487f1ec30941556f426bd071cb0",
+        "target": "4.0.17",
+        "pxt": "6.0.35",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
